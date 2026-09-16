@@ -1,0 +1,36 @@
+body {
+    background-color: #E8E3D8;
+    color: #0C0A0D;
+    margin:30px;
+}
+
+h1 {
+    color: #55383C;
+    font-family:Georgia, serif;
+}
+
+h2 {
+    color: #A2A270;
+}
+
+p {
+    color: #0C0A0D;
+    font-family: Arial, sans-serif;
+}
+
+li {
+    color: #AE9494;
+}
+
+a {
+    color: #55383C;
+}
+
+div {
+    width: 300px;
+    height: 100px;
+    background-color: #AE9494;
+    border: 2px solid #55383C;
+    padding: 20px;
+    margin: 20px;
+}
