@@ -1,5 +1,34 @@
-# My Personal Website
+# Vanna's Human Science & Human Resources Career Website
 
-This website was created as part of my web development project. It demonstrates my HTML and CSS skills and provides a simple, styled website that can be viewed online.
+## Project Description
 
-[View my live website](https://vanessanunez2019-sketch.github.io)
+This project is a professional two-page career website created to present my educational background, Human Science major, interest in Human Resources, skills, experience, and future career goals.
+
+## Website Pages
+
+- [Home](index.html)
+- [About Me](about.html)
+
+## Project Documentation
+
+The project planning documents are located in the `docs` folder:
+
+- [Project Scope](docs/scope.md)
+- [Project Plan](docs/plan.md)
+- [Project Retrospective](docs/retrospective.md)
+
+## Technologies Used
+
+- HTML
+- CSS
+- Markdown
+- GitHub
+- GitHub Pages
+
+## Career Goal
+
+My goal is to use my Human Science education to pursue a career in Human Resources. I am interested in helping employees feel valued and supported while developing skills in communication, recruiting, employee relations, and workplace policies.
+
+## Author
+
+Vanna Nunez

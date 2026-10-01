@@ -1,37 +1,60 @@
 body {
     background-color: #E8E3D8;
     color: #0C0A0D;
-    margin:30px;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid #0C0A0D;
 }
 
 h1 {
-    color: #55383C;
-    font-family:Georgia, serif;
+    margin-bottom: 10px;
 }
 
 h2 {
-    color: #A2A270;
+    margin-top: 30px;
 }
 
-p {
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    margin: 0 10px;
     color: #0C0A0D;
-    font-family: Arial, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-li {
-    color: #AE9494;
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+section {
+    margin: 30px 0;
+}
+
+ul {
+    padding-left: 25px;
 }
 
 a {
-    color: #55383C;
+    color: #0C0A0D;
 }
 
-div {
-    width: 300px;
-    height: 100px;
-    background-color: #AE9494;
-    border: 2px solid #55383C;
-    padding: 20px;
-    margin: 20px;
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #0C0A0D;
 }
-/* Project 02 styling */
